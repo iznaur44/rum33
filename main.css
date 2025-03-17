@@ -1,0 +1,50 @@
+@media (max-width: 1260px){
+    .nav-list{
+        display: none;
+        
+    }
+    .form-control{
+display: none;
+    }
+    .checkbox{
+        display: none;
+    }
+    .checkbox__t{
+        display: none;
+    }
+    .checkbox__tt{
+        display: none;
+    }
+   
+    .form-wrapper{
+        display: none;
+    }
+    .photo{
+        display: none;
+    }
+    .hero{
+        flex-direction: column;
+    }
+    .txt_h{
+        font-size: 33px;
+    }
+    .regist-txt{
+        
+    }
+    .photo{
+        display: none;
+        flex-direction: column;
+    }
+    .video{
+        
+        flex-direction: column;
+    }
+    .container__content{
+        flex-direction: column;
+    }
+    .container__contentt{
+        flex-direction: column;
+
+    }
+}
+
